@@ -22,4 +22,4 @@ test:
 
 production:
   <<: *default
-  database: database: testapp_production
+  database: testapp_production
